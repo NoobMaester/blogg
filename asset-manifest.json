@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/noobmaester.github.io/blogg/static/css/main.741cb83a.css",
+    "main.js": "/noobmaester.github.io/blogg/static/js/main.f35bb435.js",
+    "index.html": "/noobmaester.github.io/blogg/index.html",
+    "main.741cb83a.css.map": "/noobmaester.github.io/blogg/static/css/main.741cb83a.css.map",
+    "main.f35bb435.js.map": "/noobmaester.github.io/blogg/static/js/main.f35bb435.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.741cb83a.css",
+    "static/js/main.f35bb435.js"
+  ]
+}
